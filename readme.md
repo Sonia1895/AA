@@ -7,4 +7,4 @@
 Este repositorio se creó para la materia de aprendizaje automático, que imparte el Dr. Alberto Benavides.
 
 #### Evidencias:
-- [Tarea 1](/Tarea%201/Actividad%201.md)
+- [Tarea 1](/Tarea_1.ipynb)
