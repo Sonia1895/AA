@@ -8,3 +8,4 @@ Este repositorio se creó para la materia de aprendizaje automático, que impart
 
 #### Evidencias:
 - [Tarea 1](/Tarea_1.ipynb)
+- [Tarea 2](/Tarea_2.ipynb)
