@@ -12,3 +12,4 @@ Este repositorio se creó para la materia de aprendizaje automático, que impart
 - [Tarea 3](/Tarea_3.ipynb)
 - [Tarea 4](/Tarea_4.ipynb)
 - [Tarea 5](/Tarea_5.ipynb)
+- [Tarea 5 latex](/Tarea_5)
